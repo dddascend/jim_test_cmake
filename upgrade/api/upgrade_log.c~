@@ -1,6 +1,0 @@
-#include "upgrade_log.h"
-
-void init_upgrade()
-{
-printf("init upgrade\n");
-}

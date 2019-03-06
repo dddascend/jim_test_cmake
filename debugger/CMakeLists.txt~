@@ -1,5 +1,0 @@
-
-aux_source_directory(./src DIR_DEBUG_SRCS)
-
-add_library(f_debugger ${DIR_DEBUG_SRCS})
-
